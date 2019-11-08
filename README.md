@@ -15,3 +15,6 @@ promo-site for star wars episode IX
 
 — Разберёмся, как стартовать на фрилансе
 
+**demo-link**: https://riva-sm.github.io/star-wars-promo-site-final/
+**ссылка на демо**: https://riva-sm.github.io/star-wars-promo-site-final/
+
